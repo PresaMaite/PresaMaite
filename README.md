@@ -1,7 +1,7 @@
-### Hi there 👋
+# ¡Hola! Mi nombre es Maite 👋
 
 <!--
-**PresaMaite/PresaMaite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MaiPresa/MaiPresa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Desarrolladora y Diseñadora Web<br><br>
+`Soy Desarrolladora Web Frontend en último año de carrera de Diseño Gráfico Digital con un enfoque especializado en Diseño Web y Desarrollo Frontend. Mi pasión por el diseño y la tecnología me ha llevado a desarrollar una sólida base de conocimientos en la creación de experiencias digitales impactantes y funcionales.`
+<br><br>
+## Lenguajes 📖
+ReactJS || JavaScript || Sass || CSS3 || HTML5 || Laravel || PHP
+<br><br>
+## Softwares 💻
+VSCode || Figma || 3DSMax || Pack Adobe
