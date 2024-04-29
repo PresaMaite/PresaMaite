@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Desarrolladora y Diseñadora Web<br><br>
-`Soy Desarrolladora Web Frontend graduada en Diseño Gráfico Digital con un enfoque especializado en Diseño Web y Desarrollo Frontend. Mi pasión por el diseño y la tecnología me ha llevado a desarrollar una sólida base de conocimientos en la creación de experiencias digitales impactantes y funcionales.`
+`Soy Desarrolladora Web Frontend graduada en Diseño especializada en Diseño y Desarrollo Frontend. Mi curiosidad por el diseño y la programación me ha llevado a desarrollar una sólida base de conocimientos en la creación de páginas web, desde su diseño hasta su implementación.`
 <br><br>
 ## Lenguajes 📖
-ReactJS || NextJS || JavaScript || Sass || CSS3 || HTML5 
+Angular || ReactJS || NextJS || JavaScript || Sass || CSS3 || HTML5 
 <br><br>
 ## Softwares 💻
 VSCode || Figma || 3DSMax || Pack Adobe
